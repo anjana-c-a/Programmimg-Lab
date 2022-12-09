@@ -1,2 +1,2 @@
-from .cuboid import *
-from .sphere import *
+from .circle import *
+from .rectangle import *
